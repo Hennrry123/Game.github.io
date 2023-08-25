@@ -18,26 +18,6 @@ body{
     border-radius: 20px;
     flex-wrap: auto;
 }
-.campo-batalla-gana{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 2px solid greenyellow;
-    padding: 30px;
-    border-radius: 20px;
-    flex-wrap: auto;
-}
-
-.campo-batalla-empate{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 2px solid orange;
-    padding: 30px;
-    border-radius: 20px;
-    flex-wrap: auto;
-}
-
 
 .caja-batala{
     margin: 25px;
